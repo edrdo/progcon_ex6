@@ -7,8 +7,6 @@ _Eduardo R. B. Marques, DCC/FCUP_
 
 **Objectivos**: Exercícios sobre "Software Transactional Memory" (STM).
 
-&rarr; [Página da cadeira](https://www.dcc.fc.up.pt/~edrdo/aulas/pc) 
-
 &rarr; [Documentação ScalaSTM](https://nbronson.github.io/scala-stm/api/0.8/scala/concurrent/stm/japi/STM$.html)
 
 
